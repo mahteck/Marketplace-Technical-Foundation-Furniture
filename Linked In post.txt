@@ -1,0 +1,28 @@
+🚀 Hackathon 3 Day 2: Laying the Technical Foundation
+
+Hackathons are about innovation and turning visions into reality! On Day 2 of Hackathon 3, I focused on establishing a solid technical foundation for our Marketplace Project. Here's an overview of what I achieved:
+
+1️⃣ Organized a Comprehensive Documentation System
+
+Set up a well-structured .docs folder that includes:
+
+System Architecture Visualizations: Clear illustrations of how the frontend connects with the backend.
+Data Schema Designs: Precise diagrams for defining and managing the database.
+Detailed API References: Comprehensive guidelines for API interactions, including integration with Sanity CMS.
+
+2️⃣ Enhanced Frontend and Backend Integration
+
+Established a seamless interaction between the frontend and Sanity CMS to ensure APIs operate efficiently and deliver reliable results.
+
+3️⃣ Defined User Interaction Flow
+
+Created detailed workflows and visual diagrams to map user interactions with the platform, streamlining the user journey and simplifying technical implementation.
+
+Check out the links below to explore the project repository and the system architecture document:
+🔗 GitHub Repository
+https://github.com/mahteck/Marketplace-Technical-Foundation-Furniture
+
+
+Team Members: Ameen Alam | Bilal Muhammad Khan | Aneeq Khatri | Asharib Ali | Mubashir Ali
+
+#Hackathon #WebDevelopment #MarketplaceProject #SystemDesign #APIDocumentation #SanityCMS #FrontendIntegration #BackendWorkflow #TypeScript #DeveloperSkills #SoftwareEngineering #GitHub #TechJourney #Innovation #LinkedIn

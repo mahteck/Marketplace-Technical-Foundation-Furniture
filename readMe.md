@@ -27,21 +27,32 @@ This endpoint retrieves a list of products available for sale.
 
 ##### Response
 
-The response will return a list of products, each containing details like the product's name, description, price, stock quantity, and image.
+The response will return a list of products, each containing details like the product's name, description, price, category, image, 
+features, and dimensions.
 
 ```json
 [
   {
     "name": "Sofa set",
-    "slug": "1"
     "description": "A stylish, sofa set for your living room.",
-    "height": "20",
-    "width": "20",
-    "depth": "25",
-    "price": 550,
     "image": "https://example.com/images/sofa.jpg",
+    "id": "1",
+    "features": [
+            "Premium material",
+            "Handmade upholster",
+            "Quality timeless classic"
+        		],
+    "dimensions": {
+            "width": "110cm",
+            "height": "110cm",
+            "depth": "50cm"
+        },
     "category": "Sofas",
-    "stock": 50
+    "price": 550,
+    "tags": [
+            "popular products"
+        		],
+    "slug": "1"
   },
   ...
 ] 
